@@ -13,7 +13,7 @@ lettertype = ImageFont.truetype("impact.ttf", 40)
 tekengebied = ImageDraw.Draw(achtergrond)
 
 # Tekst schrijven
-tekst = "Coding in Python\nNo problemo!"
+tekst = "He that's me!
 
 # Bereken de breedte en hoogte van de tekst
 tekst_breedte, tekst_hoogte = tekengebied.textsize(tekst, font=lettertype) 
